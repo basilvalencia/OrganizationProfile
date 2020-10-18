@@ -1,0 +1,16 @@
+C:\Users\Ada\source\repos\OrganizationProfile\OrganizationProfile\bin\Debug\netcoreapp3.1\OrganizationProfile.exe
+C:\Users\Ada\source\repos\OrganizationProfile\OrganizationProfile\bin\Debug\netcoreapp3.1\OrganizationProfile.deps.json
+C:\Users\Ada\source\repos\OrganizationProfile\OrganizationProfile\bin\Debug\netcoreapp3.1\OrganizationProfile.runtimeconfig.json
+C:\Users\Ada\source\repos\OrganizationProfile\OrganizationProfile\bin\Debug\netcoreapp3.1\OrganizationProfile.runtimeconfig.dev.json
+C:\Users\Ada\source\repos\OrganizationProfile\OrganizationProfile\bin\Debug\netcoreapp3.1\OrganizationProfile.dll
+C:\Users\Ada\source\repos\OrganizationProfile\OrganizationProfile\bin\Debug\netcoreapp3.1\OrganizationProfile.pdb
+C:\Users\Ada\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\netcoreapp3.1\OrganizationProfile.csprojAssemblyReference.cache
+C:\Users\Ada\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\netcoreapp3.1\OrganizationProfile.frmRegistration.resources
+C:\Users\Ada\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\netcoreapp3.1\OrganizationProfile.frmConfirmation.resources
+C:\Users\Ada\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\netcoreapp3.1\OrganizationProfile.csproj.GenerateResource.cache
+C:\Users\Ada\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\netcoreapp3.1\OrganizationProfile.AssemblyInfoInputs.cache
+C:\Users\Ada\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\netcoreapp3.1\OrganizationProfile.AssemblyInfo.cs
+C:\Users\Ada\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\netcoreapp3.1\OrganizationProfile.csproj.CoreCompileInputs.cache
+C:\Users\Ada\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\netcoreapp3.1\OrganizationProfile.dll
+C:\Users\Ada\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\netcoreapp3.1\OrganizationProfile.pdb
+C:\Users\Ada\source\repos\OrganizationProfile\OrganizationProfile\obj\Debug\netcoreapp3.1\OrganizationProfile.genruntimeconfig.cache
